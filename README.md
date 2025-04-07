@@ -22,4 +22,3 @@ Esse repositório tem como objetivo registrar a documentação e evolução do p
     <td align="center"><a href="https://github.com/Renatinha28"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/117046252?v=4" width="100px;" alt=""/><br /><sub><b>Renata Quadros</b></sub></a><br />
     
   </tr>
-</table># Intera-o-Humano-Computador
