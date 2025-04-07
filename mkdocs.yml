@@ -1,0 +1,215 @@
+repo_url: https://github.com/Interacao-Humano-Computador/2024.1-INSS/tree/main
+repo_name: 2024.1-PCDF
+
+site_name: PCDF
+
+nav:
+  - Home: index.md
+  - Apresentações:
+    - Apresentação 1: apresentacao/apresentacao01.md
+    - Apresentação 2: apresentacao/apresentacao02.md
+    - Apresentação 3: apresentacao/apresentacao03.md
+    - Apresentação 4: apresentacao/apresentacao04.md
+    - Apresentação 5: apresentacao/apresentacao05.md
+    - Apresentação 6: apresentacao/apresentacao06.md
+    - Apresentação 7: apresentacao/apresentcao07.md
+    - Apresentação 6.2: apresentacao/apresentacao06.2.md
+    - Apresentação 8: apresentacao/apresentacao08.md
+    - Apresentação Final: apresentacao/apresentacao_final.md
+  - Reuniões:
+      - Reunião 1: reunioes/reuniao01.md
+      - Reunião 2: reunioes/reuniao02.md
+      - Reunião 3: reunioes/reuniao03.md
+      - Reunião 4: reunioes/reuniao04.md
+      - Reunião 5: reunioes/reuniao05.md
+      - Reunião 6: reunioes/reuniao06.md
+      - Reunião 7: reunioes/reuniao07.md
+      - Reunião 8: reunioes/reuniao08.md
+      - Reunião 9: reunioes/reuniao09.md
+  - Planejamento:
+    - Metodologia: planejamento/metodologia.md
+    - Cronograma: planejamento/cronograma.md
+    - Cronograma Executado: planejamento/cronograma_executado.md
+    - Heatmap: planejamento/heatmap.md
+    - Sites Avaliados: planejamento/sitesAvaliados.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Processos Design: planejamento/processoDesign.md
+    - Site Escolhido: planejamento/siteescolhido.md
+  - Análise de Requisitos I:
+    - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
+    - Perfil do Usuário:
+        - Questionário : analise_requisitos1/perfil_do_usuario/questionario.md
+        - Entrevista: analise_requisitos1/perfil_do_usuario/questionariopr.md
+        - Análise Competitiva: analise_requisitos1/perfil_do_usuario/analise_competitiva.md
+        - Resultado do Perfil do Usuário: analise_requisitos1/perfil_do_usuario/resultado.md
+    - Personas: analise_requisitos1/personas.md
+    - Cenários : analise_requisitos1/cenario.md
+    - Análise de tarefas:
+        - HTA: analise_requisitos1/analise_tarefas/hta.md
+        - GOMS: analise_requisitos1/analise_tarefas/goms.md
+  - Análise de Requisitos II:
+    - Princípios Gerais do Projeto: analise_requisitos2/principios_gerais.md
+    - Metas de Usabilidade: analise_requisitos2/metas_usabilidade.md
+    - Guia de Estilo: analise_requisitos2/guia_estilo.md
+    - Características da plataforma: analise_requisitos2/caracteristicos.md
+  - Design, Avaliação e Desenvolvimento :
+    - Nivel 1:
+      - Análise de tarefas:
+        - Planejamento da Avaliação da Análise de Tarefas : design/Nivel1/analise_tarefas/planejamento_avaliação.md
+        - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/analise_tarefas/planejamento_relato.md
+        - Relato dos Resultados: design/Nivel1/analise_tarefas/relato.md
+      - Storyboard:
+        - Planejamento da Avaliação do Storyboard : design/Nivel1/storyboard/planejamento_avaliação.md
+        - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/storyboard/planejamento_relato.md
+        - Relato dos Resultados: design/Nivel1/storyboard/relato.md
+        - Storyboards: design/Nivel1/storyboard/storyboard.md
+    - Nivel 2:
+      - Protótipo de Papel:
+        - Planejamento da Avaliação do Protótipo de Papel : design/Nivel2/prototipo_papel/planejamento_avaliação.md
+        - Planejamento do Relato do Protótipo de Papel: design/Nivel2/prototipo_papel/planejamento_relato.md
+        - Relato do prototipo de Papel: design/Nivel2/prototipo_papel/relato_prototipo_papel.md
+        - Prototipos de Papel: design/Nivel2/prototipo_papel/prototipo_papel.md
+    - Nivel 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação do Protótipo de Alta Fidelidade : design/Nivel3/planejamento_avaliação.md
+        - Planejamento do Relato do Protótipo de Alta Fidelidade: design/Nivel3/planejamento_relato.md
+        - Relato do Protótipo de Alta Fidelidade :
+              - Solicitar Antecedentes: design/Nivel3/Relato_Prototipoalta/solicitar.md
+              - 197- Denúncia Online: design/Nivel3/Relato_Prototipoalta/197.md
+              - Solicitar carteira de identidade: design/Nivel3/Relato_Prototipoalta/identidade.md
+              - Registra Ocorrência: design/Nivel3/Relato_Prototipoalta/ocorrencia.md
+              - Retrato Falado Online: design/Nivel3/Relato_Prototipoalta/retrato.md
+        - Protótipo de Alta Fidelidade: 
+              - Solicitar Antecedentes: design/Nivel3/prototipo_alta/solicitar.md
+              - 197- Denúncia Online: design/Nivel3/prototipo_alta/197.md
+              - Solicitar carteira de identidade: design/Nivel3/prototipo_alta/identidade.md
+              - Registra Ocorrência: design/Nivel3/prototipo_alta/ocorrencia.md
+              - Retrato Falado Online: design/Nivel3/prototipo_alta/retrato.md
+  - Verificação:
+    - Verificação do Grupo + 1:
+      - Etapa 1:
+        - Planejamento da Verificação da  etapa 1: verificacao/verificaçao_grupo+1/Etapa1/planejamento_verificacao.md
+        - Cronograma: verificacao/verificaçao_grupo+1/Etapa1/Cronograma.md
+        - Cronograma Executado: verificacao/verificaçao_grupo+1/Etapa1/cronograma_executado.md
+        - Ferramentas: verificacao/verificaçao_grupo+1/Etapa1/ferramentas.md
+        - Processo de Design: verificacao/verificaçao_grupo+1/Etapa1/processo_design.md
+        - Site Avaliado: verificacao/verificaçao_grupo+1/Etapa1/site_avaliado.md
+        - Site Escolhido: verificacao/verificaçao_grupo+1/Etapa1/site_escolhido.md
+        - Metodologia: verificacao/verificaçao_grupo+1/Etapa1/metodologia.md
+      - Etapa 2:
+        - Planejamento da Verificação da  etapa 2: verificacao/verificaçao_grupo+1/Etapa2/planejamento_verificacao2.md
+        - Aspectos Éticos: verificacao/verificaçao_grupo+1/Etapa2/apectos_eticos.md
+        - Questionário: verificacao/verificaçao_grupo+1/Etapa2/questionario.md
+        - Entrevista: verificacao/verificaçao_grupo+1/Etapa2/entrevista.md
+        - Perfil do Usuário: verificacao/verificaçao_grupo+1/Etapa2/perfil_usuario.md
+        - Cenários: verificacao/verificaçao_grupo+1/Etapa2/cenarios.md
+        - Personas: verificacao/verificaçao_grupo+1/Etapa2/personas.md
+        - Analise de Tarefas: verificacao/verificaçao_grupo+1/Etapa2/analise_tarefas.md
+      - Etapa 3:
+        - Planejamento da Verificação da  etapa 3: verificacao/verificaçao_grupo+1/Etapa3/planejamento_verificacao3.md
+        - Princípios Gerais do Projeto: verificacao/verificaçao_grupo+1/Etapa3/principiosgerais.md
+        - Metas de Usabilidade: verificacao/verificaçao_grupo+1/Etapa3/metas_usabilidade.md
+        - Guia de Estilo: verificacao/verificaçao_grupo+1/Etapa3/guia_estilo.md
+        - Características da plataforma: verificacao/verificaçao_grupo+1/Etapa3/carcteristicas.md
+      - Etapa 4:
+        - Planejamento da Verificação da  etapa 4: verificacao/verificaçao_grupo+1/Etapa4/planejamento_verificacao4.md
+        - Planejamento da Avaliação de analise de tarefas: verificacao/verificaçao_grupo+1/Etapa4/planejamento_analise_tarefas.md
+        - Planejamento do Relato dos Resultados da analise de tarefas: verificacao/verificaçao_grupo+1/Etapa4/planejamento-relato-tarefas.md
+        - Termo de Consentimento: verificacao/verificaçao_grupo+1/Etapa4/termos_consentimento.md
+        - Planejamento para Storyboards: verificacao/verificaçao_grupo+1/Etapa4/planejamento_storyboard.md
+      - Etapa 5:
+        - Planejamento da Verificação da  etapa 5: verificacao/verificaçao_grupo+1/Etapa5/planejamento_verificacao5.md
+        - Relato da Analise de Tarefas: verificacao/verificaçao_grupo+1/Etapa5/relato_analisetarefas.md
+        - Relato do storyboard: verificacao/verificaçao_grupo+1/Etapa5/relato_storyboard.md
+        - Planejamento da Avaliação de Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/planejamento_prototipo.md
+        - Planejamento do Relato de Resultados da Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/planejamento_relatoprototipo.md
+        - Termo de consentimento para Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/termo_consentimento.md
+    - Verificação do Grupo :
+      - Etapa Analise de requisitos 1:
+        - Planejamento da Verificação da  etapa 2: verificacao/verificacao/Etapa2/planejamento_verificacao2.md
+        - Aspectos Éticos: verificacao/verificacao/Etapa2/apectos_eticos.md
+        - Questionário: verificacao/verificacao/Etapa2/questionario.md
+        - Entrevista: verificacao/verificacao/Etapa2/entrevista.md
+        - Análise Competitiva: verificacao/verificacao/Etapa2/analise_competitiva.md
+        - Resultado do Perfil do Usuário: verificacao/verificacao/Etapa2/perfil_usuario.md
+        - Personas: verificacao/verificacao/Etapa2/personas.md
+        - Cenários: verificacao/verificacao/Etapa2/cenarios.md
+        - Analise de Tarefas- HTA: verificacao/verificacao/Etapa2/hta.md
+        - Analise de Tarefas- GOMS: verificacao/verificacao/Etapa2/goms.md
+      - Etapa Analise de requisitos 2:
+        - Planejamento da Verificação da  etapa 3: verificacao/verificacao/Etapa3/planejamento_verificacao3.md
+        - Princípios Gerais do Projeto: verificacao/verificacao/Etapa3/principiosgerais.md
+        - Metas de Usabilidade: verificacao/verificacao/Etapa3/metas_usabilidade.md
+        - Guia de Estilo: verificacao/verificacao/Etapa3/guia_estilo.md
+        - Características da plataforma: verificacao/verificacao/Etapa3/carcteristicas.md
+      - Etapa design nivel 1:
+        - Planejamento da Verificação da  etapa 4: verificacao/verificacao/Etapa4/planejamento_verificacao4.md
+        - Planejamento da Avaliação de analise de tarefas: verificacao/verificacao/Etapa4/planejamento_analise_tarefas.md
+        - Planejamento do Relato dos Resultados da analise de tarefas: verificacao/verificacao/Etapa4/planejamento-relato-tarefas.md
+        - Planejamento da Avaliação dos Storyboards: verificacao/verificacao/Etapa4/planejamento_storyboard.md
+        - Planejamento do Relato dos Resultados dos Storyboards: verificacao/verificacao/Etapa4/planej_relato_stroryboard.md
+      - Etapa design nivel 2:
+        - Planejamento da Verificação da  etapa 5: verificacao/verificacao/Etapa5/planejamento_verificacao5.md
+        - Relato da Analise de Tarefas: verificacao/verificacao/Etapa5/relato_analisetarefas.md
+        - Relato do storyboard: verificacao/verificacao/Etapa5/relato_storyboard.md
+        - Storyboard: verificacao/verificacao/Etapa5/storyboard.md.md
+        - Planejamento da Avaliação de Prototipação de Papel: verificacao/verificacao/Etapa5/planejamento_prototipo.md
+        - Planejamento do Relato de Resultados da Prototipação de Papel: verificacao/verificacao/Etapa5/planejamento_relatoprototipo.md
+      - Etapa design nivel 3 parte 1:
+        - Planejamento da Verificação da  etapa 7: verificacao/verificacao/Etapa7/planej_verificação_etapa7.md
+        - Relato do Prototipo de Papel: verificacao/verificacao/Etapa7/relato_prototipo_papel.md
+        - Prototipo de Papel: verificacao/verificacao/Etapa7/prototipo_papel.md
+        - Planejamento da Avaliação do Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa7/planej_avaliação_alta.md
+        - Planejamento do Relato  do Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa7/plan_relato_altafidelidade.md
+      - Etapa design nivel 3 parte 2:
+        - Planejamento da Verificação da  etapa 8: verificacao/verificacao/Etapa 8/planej_verifi8.md
+        - Relato do Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa 8/relato_altafi.md
+        - Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa 8/prototipo_alta_fidelidade.md
+      - Etapa do Projeto final:
+        - Planejamento da Verificação da etapa do projeto: verificacao/verificacao/Etapa Projeto/planejamento_verificacao.md
+        - Cronograma: verificacao/verificacao/Etapa Projeto/Cronograma.md
+        - Cronograma Executado: verificacao/verificacao/Etapa Projeto/cronograma_executado.md
+        - Ferramentas: verificacao/verificacao/Etapa Projeto/ferramentas.md
+        - Processo de Design: verificacao/verificacao/Etapa Projeto/processo_design.md
+        - Site Avaliado: verificacao/verificacao/Etapa Projeto/site_avaliado.md
+        - Site Escolhido: verificacao/verificacao/Etapa Projeto/site_escolhido.md
+        - Metodologia: verificacao/verificacao/Etapa Projeto/metodologia.md
+        - Referência, fontes, escrita : verificacao/verificacao/Etapa Projeto/refe_font.md
+  - Entrega Final:
+    - Site Escolhido: etapa_final/site_escolhido.md
+    - Ciclo de Vida Utilizado: etapa_final/ciclo_vida.md
+    - Planejamento dos Recursos e das Entregas(Cronograma): etapa_final/planej_recursos.md
+    - Execução do Projeto: etapa_final/exec_projeto.md
+    - Resultados Alcançados com a Execução do Projeto: etapa_final/resultados.md
+    - Ferramentas Utilizadas: etapa_final/ferramentas.md
+    - Técnicas Utilizadas: etapa_final/tecnicas.md
+    - Artefatos Criados: etapa_final/artefatos.md
+    - Síntese das Avaliações: etapa_final/avaliacoes.md
+    - Síntese das Verificações: etapa_final/verificacoes.md
+    - Síntese das Apresentações: etapa_final/apresentacoes.md
+    - Considerações Finais: etapa_final/conseideracoes_finais.md
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para o modo claro
+  
+  language: pt-BR
+  favicon: assets/planejamento/PCDF.png
+  logo:    assets/planejamento/PCDF.png
